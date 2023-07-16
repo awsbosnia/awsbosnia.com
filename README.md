@@ -3,7 +3,7 @@ Welcome to the AWS Community Bosnia web page. This is a place where you can find
 
 ## Community AWS Balkans Office Hours 
 Each last Friday of the month we are organising Community AWS Balkans Office Hours to discuss the latest AWS news.
-Event is live-streamed on [YouTube Channel](https://www.youtube.com/@dzenandzevlan/streams).  
+Event is live-streamed on [YouTube Channel](https://youtube.com/playlist?list=PLM21oTGmKe22cbEDqyeXjzVo3yQN4fzmz).  
 
 **Disclaimer: This is an AWS Community lead effort and it's not related to the official AWS Office Hours.**
 ## DevOps Mentorship Program
