@@ -33,4 +33,5 @@ In order to bring the AWS community into proximity with students, AWS has starte
 ## Meetup Slides
 
 ## Contact Us
-:email: hello@awsbosnia.com
+hello@awsbosnia.com
+dzenan.dzevlan@gmail.com
