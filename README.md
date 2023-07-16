@@ -1,5 +1,20 @@
 # AWS Community Bosnia
-Welcome to the AWS Community Bosnia web page. This is a place where you can find all the information about AWS Community Bosnia, our events, and our community.
+Welcome to the AWS Community Bosnia web page. This is a place where you can find all the information about AWS Community Bosnia, our events, and our community.  
+
+We aim to spread knowledge about Amazon Web Services and Cloud Computing.
+
+The first AWS User Group in Bosnia was created in early 2016 in Mostar. It was the second AWS group in South-Eastern Europe. Thanks to the work of AWS enthusiasts, in addition to Mostar, two AWS User Groups were created in Sarajevo and Banja Luka. With over 600 members, the AWS community is the largest IT community in Bosnia.
+
+Group activities include:
+- conference organizations
+- meetups
+- online meetups
+- workshops
+- bootcamps
+
+The speakers are some of the biggest AWS experts from the country, region and the world. Through these activities, the AWS community helps anyone interested in Cloud Computing and AWS to learn, share their knowledge, and achieve certification.
+
+To stay in the loop with our activities, follow the hashtag #AWSBosnia on social media.
 
 ## Community AWS Balkans Office Hours 
 Each last Friday of the month we are organising Community AWS Balkans Office Hours to discuss the latest AWS news.
@@ -28,10 +43,12 @@ In order to bring the AWS community into proximity with students, AWS has starte
 ## Join AWS Community Bosnia
 - [AWS Community Bosnia Slack Workspace](https://join.slack.com/t/awsbih/shared_invite/zt-ad8kr3c7-mcFYB~s9SRdEjulMo141dw)
 - [AWS User Group Bosnia (Mostar)](https://www.meetup.com/AWS-User-Group-Bosnia/)
-- [AWS User Group Sarajevo](https://www.meetup.com/aws-user-group-sarajevo/members/?sort=join_date&desc=true)
+- [AWS User Group Sarajevo](https://www.meetup.com/aws-user-group-sarajevo/members/?sort=join_date&desc=true)  
+- [AWS Community Bosnia - LinkedIn](https://www.linkedin.com/company/awsbosnia/)  
+-[AWS Community Bosnia - Twitter](https://twitter.com/awsbosnia)  
 
 ## Meetup Slides
 
 ## Contact Us
-hello@awsbosnia.com
+hello@awsbosnia.com  
 dzenan.dzevlan@gmail.com
