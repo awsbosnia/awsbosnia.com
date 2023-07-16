@@ -45,7 +45,7 @@ In order to bring the AWS community into proximity with students, AWS has starte
 - [AWS User Group Bosnia (Mostar)](https://www.meetup.com/AWS-User-Group-Bosnia/)
 - [AWS User Group Sarajevo](https://www.meetup.com/aws-user-group-sarajevo/members/?sort=join_date&desc=true)  
 - [AWS Community Bosnia - LinkedIn](https://www.linkedin.com/company/awsbosnia/)  
--[AWS Community Bosnia - Twitter](https://twitter.com/awsbosnia)  
+- [AWS Community Bosnia - Twitter](https://twitter.com/awsbosnia)  
 
 ## Meetup Slides
 
