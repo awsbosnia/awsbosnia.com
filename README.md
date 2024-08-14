@@ -18,6 +18,7 @@ To stay in the loop with our activities, follow the hashtag #AWSBosnia on social
 
 ## News and Activities 
 
+- **18.10.2024** - [AWS Community Day Adria - 2024](https://awscommunityadria.com/)
 - **17.08.2024** - [AWS User Group Sarajevo - GenAI Workshop Day](https://docs.google.com/forms/d/e/1FAIpQLSembRNCoHYP8nZUJEQagk0vh8uTZyHdaFN5IQex8u9xPOKrHQ/viewform)  
 - **01.08.2024** - [AWS Community Day Adria - 2024 Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeigLrzSgjwSwzaQlDCeNuQaSIByhwexlRcgfzhnN6BebG4Jg/viewform)
 - **01.07.2024** - [REGISTRATIONS for FREE DevOps Mentorship Program - 2024](https://docs.google.com/forms/d/e/1FAIpQLSe8HeX1M_p4cnI28fyFCjNqf31IwqzzUZHiy42BlMCV6Zj_uA/closedform)  
