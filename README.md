@@ -16,6 +16,16 @@ The speakers are some of the biggest AWS experts from the country, region and th
 
 To stay in the loop with our activities, follow the hashtag #AWSBosnia on social media.
 
+## News and Activities 
+
+- **17.08.2024** - [AWS User Group Sarajevo - GenAI Workshop Day](https://docs.google.com/forms/d/e/1FAIpQLSembRNCoHYP8nZUJEQagk0vh8uTZyHdaFN5IQex8u9xPOKrHQ/viewform)  
+- **01.08.2024** - [AWS Community Day Adria - 2024 Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeigLrzSgjwSwzaQlDCeNuQaSIByhwexlRcgfzhnN6BebG4Jg/viewform)
+- **01.07.2024** - [REGISTRATIONS for FREE DevOps Mentorship Program - 2024](https://docs.google.com/forms/d/e/1FAIpQLSe8HeX1M_p4cnI28fyFCjNqf31IwqzzUZHiy42BlMCV6Zj_uA/closedform)  
+- **19.06.2024** - [AWS User Group Zagreb is re-activated and organising their first meetup after four years](https://www.meetup.com/aws-user-group-zg/events/301593743/?eventOrigin=group_past_events)
+- **07.06.2024** - [AWS User Group Sarajevo Meetup](https://www.meetup.com/aws-user-group-sarajevo/events/301214921/?eventOrigin=group_past_events)  
+- **11.05.2024** - [Cloud Weekend - AWS Conference in Montenegro organised by AWS User Group Monetenegro](https://cloudweekend.me/)
+- **10.02.2024** - [AWS Community Workshop Day at International Burch University (IBU)](https://www.meetup.com/aws-user-group-sarajevo/events/298926462/?eventOrigin=group_events_list)
+
 ## Community AWS Balkans Office Hours 
 Each last Friday of the month we are organising Community AWS Balkans Office Hours to discuss the latest AWS news.
 Event is live-streamed on [YouTube Channel](https://youtube.com/playlist?list=PLM21oTGmKe22cbEDqyeXjzVo3yQN4fzmz).  
@@ -50,5 +60,4 @@ In order to bring the AWS community into proximity with students, AWS has starte
 ## Meetup Slides
 
 ## Contact Us
-hello@awsbosnia.com  
-dzenan.dzevlan@gmail.com
+You are interested into AWS but you are not sure where to start or you have questions, suggestions or you would like to be speaker at our next event, feel free to drop us an email @ hello@awsbosnia.com or dzenan.dzevlan@gmail.com
